@@ -1,6 +1,13 @@
-# -*- coding: utf-8 -*-
-from __future__ import unicode_literals
-
+from .models import Form
 from django.contrib import admin
 
-# Register your models here.
+
+class formAdmin(admin.ModelAdmin):
+
+    list_display = ['subject','message']
+    list_filter = ['subject']
+    search_fields = ['message']
+    class Meta:
+        model = Form
+
+admin.site.register(Form,formAdmin)

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <title>Contact us</title>
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/static/css/main.css">
+    {% endblock %}
+</head>
+<body>
+{% block content %}
+
+{% if user.is_authenticated %}
+
+<p class="social-name"> Wellcome {{ user.username }} </p>
+
+{% else %}
+
+    <button class="social-button button"/>
+
+{% endif %}
+
+
+                                        {# success message #}
+
+
+{% if messages %}
+    <ul class="messages" style="left: -50%; ">
+        {{ messages.clear }}
+        {% for message in messages %}
+            <li {% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+        {% endfor %}
+</ul>
+{% endif %}
+
+
+
+
+
+                                    {# success message script #}
+{% if messages %}
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+
+      setTimeout(function () {
+          document.querySelector('.messages').classList.add('notification');
+      },1000);
+      setTimeout(function () {
+          document.querySelector('.messages').classList.add('notification-leave');
+      },4000);
+</script>
+
+  {% else %}
+<script>
+        $('.messages').hide();
+</script>
+  {% endif %}
+
+
+
+
+
+                                    {# Contact Form #}
+<form id="contact-form" method="POST" name="form" >
+    {% csrf_token %}
+
+    <p>Hey,</p>
+    <p>My
+    <label for="your-name">name</label> is
+    <input type="text" name="name" id="your-name" minlength="3" placeholder="(your name here)" required> and</p>
+
+  <p>my
+    <label for="email">email address</label> is
+    <input type="email" name="email" id="email" placeholder="(your email address)" required>
+  </p>
+
+
+  <p>i want to contact with you
+    <label for="cd-dropdown"> for </label> is
+    <select name="subject"  id="cd-dropdown" class="cd-select">
+      <option value="report">report</option>
+      <option value="ask" selected>ask a question</option>
+      <option value="apply">apply</option>
+      <option value="other">other</option>
+    </select>
+  </p>
+
+
+  <p> I have a
+    <label for="message">message</label> for you,
+  </p>
+
+  <p>
+    <textarea name="message" maxlength="150" id="message" placeholder="(your msg here)" class="expanding" required></textarea>
+  </p>
+  <p>
+
+      <button type="submit">
+          <svg version="1.1" class="send-icn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="36px" viewBox="0 0 100 36" enable-background="new 0 0 100 36" xml:space="preserve">
+        <path d="M100,0L100,0 M23.8,7.1L100,0L40.9,36l-4.7-7.5L22,34.8l-4-11L0,30.5L16.4,8.7l5.4,15L23,7L23.8,7.1z M16.8,20.4l-1.5-4.3
+	l-5.1,6.7L16.8,20.4z M34.4,25.4l-8.1-13.1L25,29.6L34.4,25.4z M35.2,13.2l8.1,13.1L70,9.9L35.2,13.2z" />
+      </svg>
+      </button>
+
+      <a href="/form/oauth/login/facebook/" class="facebook" title="Facebook">
+          <em>Facebook</em>
+      </a>
+
+  </p>
+</form>
+{% endblock %}
+<script src="/static/js/main.js"></script>
+</body>
+</html>
