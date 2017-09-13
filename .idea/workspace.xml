@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d19a30-8d7e-4a63-a479-eff26c69c9e9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a/_metadata_/metadata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a/_metadata_/metadata.keystream" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a/_metadata_/metadata.keystream.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a/_metadata_/metadata.len" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a/_metadata_/metadata.values.at" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a/_metadata_/metadata_i" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a/_metadata_/metadata_i.len" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/keymaps/Default for GNOME copy.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/databaseSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/project.default.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.PyCharmCE2017.2/config/options/runner.layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.PyCharmCE2017.2/config/options/statistics.toolbar.clicks.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.PyCharmCE2017.2/config/options/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/adminPanel.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/dataSources/b4c43e7b-6466-4e3a-aa53-cb69fdfdd41a/storage.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/jsLinters/jslint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/migrations/0002_auto_20170910_1331.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/migrations/0003_auto_20170912_1331.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/migrations/0004_auto_20170912_1333.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/migrations/0005_auto_20170912_1511.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/static/js/jquery_3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/static/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_app/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_form/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_form/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_form/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/contact_form/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/templates/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/templates/registration/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../projects/adminPanel/contact_form/templates/success.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/contact_form/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/firstApp/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/firstApp/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/firstApp/contactForm/contact/urls.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="contact_form_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact_form_v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contact_form_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contact_form_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="contact_form" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d19a30-8d7e-4a63-a479-eff26c69c9e9" name="Default" comment="" />
+      <created>1505314195721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505314195721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="741" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
